@@ -4,7 +4,7 @@
 
 Backend desarrollado como proyecto final para el curso de Backend- Node.js. Esta API permite gestionar un inventario de productos (CRUD) y cuenta con un sistema de autenticación.
 
-**Deploy en Vercel:** 
+**Deploy en Vercel:** https://taltech-bk-entregafinal.vercel.app
 
 ---
 
